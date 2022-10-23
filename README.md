@@ -11,3 +11,5 @@ Terminali yönetici olarak çalıştır.
 pip install pyinstaller
 
 pyinstalller --onefile WinRegApp.pyw
+
+Uyarı : Exe dosyasını yönetici olarak çalıştırmayı unutma.
