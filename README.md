@@ -12,4 +12,4 @@ pip install pyinstaller
 
 pyinstalller --onefile WinRegApp.pyw
 
-Uyarı : Exe dosyasını yönetici olarak çalıştırmayı unutma.
+Uyarı : exe dosyasını yönetici olarak çalıştırmayı unutma!
