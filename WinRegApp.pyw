@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import ttk, scrolledtext, messagebox
 import functions
-functions.execute()
+#functions.execute()
 def run():
 
     if combo.get() == "Option1":
