@@ -10,4 +10,4 @@ Kullanım :
 
 - pyinstalller --onefile WinRegApp.pyw
 
-Not : WinRegApp dosyası uzantısının .pyw olmasının sebebi dosyayı exe formatına çevirip kullanmak istediğiniz zamanda terminal ekranından kaçınmak.
+Not : WinRegApp dosyası uzantısının .pyw olmasının nedeni terminal ekranından kaçınmak.
