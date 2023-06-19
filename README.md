@@ -1,6 +1,7 @@
 # WinRegApp
 
-Windows işletim sistemine sahip bilgisayarınızda regedit üzerinden bazı işlemleri otomatikleştiren program. 
+[TR] Windows işletim sistemine sahip bilgisayarınızda regedit üzerinden bazı işlemleri otomatikleştiren program. 
+[EN] A tool that automates some events you want to perform on regedit in the Windows operating system.
 
 Özellikler (Features) : 
  
